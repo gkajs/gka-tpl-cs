@@ -17,18 +17,20 @@
 
 ```sh
 $ sudo npm install -g gka                # install gka
+
+$ sudo npm install -g gka-tpl-cs
 ```
 
 # Usage
 
 ```sh
-$ gka <dir> -t sprites [options]
+$ gka <dir> -t cs [options]
 ```
 
 # Example
 
 ```sh
-$ gka E:\gka-test\img -t sprites
+$ gka E:\gka-test\img -t cs
 ```
 
 <table>
@@ -51,7 +53,7 @@ $ gka E:\gka-test\img -t sprites
 └── gka.html
 └── gka.css
 └── img
-    └── gka_sprites.png
+    └── sprites.png
 </code></pre></td>
         </tr>
     </tbody>
