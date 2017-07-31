@@ -1,6 +1,6 @@
 [![gkatemplatew](https://user-images.githubusercontent.com/10385585/28489021-a9cc83aa-6eea-11e7-8c1b-4bb326bb9fe9.png)](https://github.com/joeyguo/gka)
 
-## gka-tpl-sprites
+## gka-tpl-cs
 
 <a href="https://www.npmjs.org/package/gka-tpl-sprites"><img src="https://img.shields.io/npm/v/gka-tpl-sprites.svg?style=flat"></a>
 <a href="https://github.com/joeyguo/gka-tpl-sprites#license"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
@@ -9,6 +9,7 @@
 
 ### 内置优化
 
+- 开启图片裁剪优化 ✓
 - 开启合图优化 ✓
 - 开启相同帧图片复用 ✓
 
