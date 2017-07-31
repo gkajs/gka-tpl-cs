@@ -1,22 +1,23 @@
 {
-  "name": "gka-tpl-sprites",
+  "name": "gka-tpl-cs",
   "version": "1.0.0",
   "description": "gka template sprites",
   "main": "index.js",
   "scripts": {
   },
-  "homepage": "https://github.com/gkajs/gka-tpl-sprites",
+  "homepage": "https://github.com/gkajs/gka-tpl-cs",
   "bugs": {
-    "url": "https://github.com/gkajs/gka-tpl-sprites/issues"
+    "url": "https://github.com/gkajs/gka-tpl-cs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gkajs/gka-tpl-sprites.git"
+    "url": "git://github.com/gkajs/gka-tpl-cs.git"
   },
   "keywords": [
     "gka",
     "template",
-    "sprites"
+    "sprites",
+    "crop"
   ],
   "author": "joeyguo",
   "license": "MIT"
