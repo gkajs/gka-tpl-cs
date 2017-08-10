@@ -7,6 +7,8 @@
 
 [gka](https://github.com/joeyguo/gka) 文件生成模板，一键式生成 css keyframes 序列帧动画文件，并内置优化。
 
+[在线示例](https://gkajs.github.io/gka-tpl-cs/example/gka.html)  [示例代码](https://github.com/gkajs/gka-tpl-cs/tree/master/example)
+
 ### 内置优化
 
 - 开启图片裁剪优化 ✓

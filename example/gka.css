@@ -1,0 +1,150 @@
+.gka-base {
+    
+    /* background-size: contain;*/
+
+    animation-timing-function: steps(1);
+    animation-iteration-count: infinite;
+
+    background-repeat: no-repeat;
+
+    animation-fill-mode: forwards;
+
+    /* Play once*/
+    /* animation-iteration-count: 1; */
+}
+
+.animation {
+    animation-name: keyframes;
+    animation-duration: 1.2s;
+
+    background-image: url("./img/sprites.png");
+}
+
+@-webkit-keyframes keyframes {
+    0% {
+        width: 238px;
+        height: 238px;
+        transform: translate(94px, 41px);
+        background-position: 0 -232px;
+    }
+    5.00% {
+        width: 163px;
+        height: 245px;
+        transform: translate(146px, 34px);
+        background-position: 0 -470px;
+    }
+    10.00% {
+        width: 112px;
+        height: 236px;
+        transform: translate(155px, 42px);
+        background-position: -1025px -238px;
+    }
+    15.00% {
+        width: 187px;
+        height: 206px;
+        transform: translate(136px, 75px);
+        background-position: -163px -470px;
+    }
+    20.00% {
+        width: 226px;
+        height: 164px;
+        transform: translate(91px, 120px);
+        background-position: -350px -470px;
+    }
+    25.00% {
+        width: 149px;
+        height: 225px;
+        transform: translate(112px, 58px);
+        background-position: -861px -456px;
+    }
+    30.00% {
+        width: 112px;
+        height: 238px;
+        transform: translate(152px, 45px);
+        background-position: -1025px 0;
+    }
+    35.00% {
+        width: 173px;
+        height: 245px;
+        transform: translate(93px, 40px);
+        background-position: -643px -200px;
+    }
+    40.00% {
+        width: 247px;
+        height: 232px;
+        transform: translate(78px, 51px);
+        background-position: 0 0;
+    }
+    45.00% {
+        width: 213px;
+        height: 228px;
+        transform: translate(99px, 50px);
+        background-position: -247px 0;
+    }
+    50.00% {
+        width: 190px;
+        height: 185px;
+        transform: translate(122px, 29px);
+        background-position: 0 -715px;
+    }
+    55.00% {
+        width: 184px;
+        height: 229px;
+        transform: translate(124px, 37px);
+        background-position: -247px -228px;
+    }
+    60.00% {
+        width: 183px;
+        height: 247px;
+        transform: translate(125px, 24px);
+        background-position: -460px 0;
+    }
+    65.00% {
+        width: 164px;
+        height: 231px;
+        transform: translate(109px, 39px);
+        background-position: -861px 0;
+    }
+    70.00% {
+        width: 124px;
+        height: 206px;
+        transform: translate(135px, 61px);
+        background-position: 0 -900px;
+    }
+    75.00% {
+        width: 218px;
+        height: 200px;
+        transform: translate(97px, 67px);
+        background-position: -643px 0;
+    }
+    80.00% {
+        width: 199px;
+        height: 163px;
+        transform: translate(116px, 106px);
+        background-position: -576px -470px;
+    }
+    85.00% {
+        width: 133px;
+        height: 184px;
+        transform: translate(149px, 83px);
+        background-position: -190px -715px;
+    }
+    90.00% {
+        width: 152px;
+        height: 211px;
+        transform: translate(146px, 58px);
+        background-position: -460px -247px;
+    }
+    95.00% {
+        width: 152px;
+        height: 225px;
+        transform: translate(146px, 44px);
+        background-position: -861px -231px;
+    }
+    100% {
+        width: 152px;
+        height: 225px;
+        transform: translate(146px, 44px);
+        background-position: -861px -231px;
+    }
+}
