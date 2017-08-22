@@ -2,8 +2,8 @@
 
 ## gka-tpl-cs
 
-<a href="https://www.npmjs.org/package/gka-tpl-sprites"><img src="https://img.shields.io/npm/v/gka-tpl-sprites.svg?style=flat"></a>
-<a href="https://github.com/joeyguo/gka-tpl-sprites#license"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+<a href="https://www.npmjs.org/package/gka-tpl-cs"><img src="https://img.shields.io/npm/v/gka-tpl-cs.svg?style=flat"></a>
+<a href="https://github.com/joeyguo/gka-tpl-cs#license"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 
 [gka](https://github.com/joeyguo/gka) 文件生成模板，一键式生成 css keyframes 序列帧动画文件，并内置优化。
 
