@@ -19,8 +19,6 @@
 
 ```sh
 $ sudo npm install -g gka                # install gka
-
-$ sudo npm install -g gka-tpl-cs         # install gka template gka-tpl-cs
 ```
 
 # Usage
