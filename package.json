@@ -1,6 +1,6 @@
 {
   "name": "gka-tpl-cs",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "description": "gka template css unique crop sprites",
   "main": "index.js",
   "scripts": {},
@@ -21,5 +21,8 @@
     "crop"
   ],
   "author": "joeyguo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gka-utils": "0.0.1"
+  }
 }
